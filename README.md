@@ -6,15 +6,16 @@
 
 
 ### :woman_technologist: About Me :
-I am a Software development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Graduating in December 2023 with NQF level 5 Information Technology: Systems Development.
+I am an Information Technology: Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ###### What I do during my free time:
-- :bow_and_arrow: Learning DevOps tools and pracices
+- :bow_and_arrow: Learning DevOps tools and practices
 - :robot: Venturing in the world of software testing automation
 - :writing_hand: Exploring technical content writing
-- :monocle_face: Want to know more about me: [Check out my portfolio here]()
-- :mailbox: How to reach me: 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mokhutso-dev/)
+
+:mailbox: How to reach me: 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mokhutso-dev/) <br>
+:monocle_face: Want to know more about me: [Check out my portfolio here]() 
 
 ---
 
@@ -33,10 +34,10 @@ I am a Software development student <img src="https://media.giphy.com/media/WUlp
 
 ---
 ### 📌 Pinned repositories
-
+<!--
 <a href="https://github.com/mokhutso-dev/django-app">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mokhutso-dev&repo=django-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhutso-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
