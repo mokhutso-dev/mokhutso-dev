@@ -34,10 +34,10 @@ I am an Information Technology: Systems Development student <img src="https://me
 
 ---
 ### 📌 Pinned repositories
-<!--
+
 <a href="https://github.com/mokhutso-dev/django-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mokhutso-dev&repo=django-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mokhutso-dev&repo=resturant-django-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhutso-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
