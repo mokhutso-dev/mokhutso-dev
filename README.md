@@ -9,9 +9,11 @@
 I am an Information Technology: Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ###### What I do during my free time:
+- :computer: Creating web applications
 - :bow_and_arrow: Learning DevOps tools and practices
-- :robot: Venturing in the world of software testing automation
+- :robot: Venturing into the world of software testing automation
 - :writing_hand: Exploring technical content writing
+
 
 :mailbox: How to reach me: 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mokhutso-dev/) <br>
@@ -32,17 +34,18 @@ I am an Information Technology: Systems Development student <img src="https://me
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
 
+<!--
 ---
 ### 📌 Pinned repositories
 <a href="https://github.com/mokhutso-dev/resturant-django-website">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mokhutso-dev&repo=resturant-django-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhutso-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+</a>  -->
+<!--### 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhutso-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
-### :writing_hand: Latest blog posts :
+### :writing_hand: Blog posts :
 -  [Deploy web app with Docker and Kubernetes](https://dev.to/mokhutso-dev/documentation-on-my-success-to-deploy-web-application-to-a-featured-kubernetes-environment-1nlm)
 
 ###### Thank you for checking my profile.
