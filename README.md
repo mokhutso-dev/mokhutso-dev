@@ -1,14 +1,12 @@
-
 <h1>
     Hi there, I'm Mokhutso Manaswe 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
 ### :woman_technologist: About Me :
 I am an Information Technology: Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-###### What I do during my free time:
+##### What I do during my free time:
 - :computer: Creating web applications
 - :bow_and_arrow: Learning DevOps tools and practices
 - :robot: Venturing into the world of software testing automation
