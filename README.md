@@ -6,10 +6,9 @@
 ### :woman_technologist: About Me :
 I am an Information Technology: Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-##### What I do during my free time:
+##### What I do:
 - :computer: Creating web applications
-- :bow_and_arrow: Learning DevOps tools and practices
-- :robot: Venturing into the world of software testing automation
+- :bow_and_arrow: Venturing into DevOps tools and practices
 - :writing_hand: Exploring technical content writing
 
 
