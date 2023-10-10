@@ -4,10 +4,11 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am an Information Technology: Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am an Information Technology: Systems Development student, majoring in System Integration <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ##### What I do:
 - :computer: Creating web applications
+- :cloud: Interested in cloud computing
 - :bow_and_arrow: Venturing into DevOps tools and practices
 - :writing_hand: Exploring technical content writing
 
