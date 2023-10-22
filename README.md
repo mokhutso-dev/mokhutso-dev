@@ -4,7 +4,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am an Information Technology: Systems Development student, majoring in System Integration <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am an Information Technology: Systems Development in System Integration trainee at WeThinkCode_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ##### What I do:
 - :computer: Creating web applications
