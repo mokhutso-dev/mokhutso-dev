@@ -8,8 +8,8 @@ I am an Information Technology: Systems Development in System Integration traine
 
 My areas of expertise are as follows:
 - :computer: System integration with Java
-- :computer: Web development using Django and MySQL
-- :computer: User Authentication and authorization (Tokens and sessions) using Nodejs, MongoDB and Django REST Framework
+- :computer: Web development using Django, Nodejs, MySQL and Mongodb
+- :computer: User Authentication and authorization (Tokens and sessions) Django REST Framework
 
 ##### What I do:
 - :computer: Creating web applications
