@@ -20,7 +20,7 @@ My areas of expertise are as follows:
 
 :mailbox: How to reach me: 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mokhutso-dev/) <br>
-:monocle_face: Want to know more about me: [Check out my portfolio here]() 
+:monocle_face: Want to know more about me: [Check out my portfolio here](https://mokhutso-dev-portfolio.vercel.app/) 
 
 ---
 
