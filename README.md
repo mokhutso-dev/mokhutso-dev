@@ -16,6 +16,7 @@ My areas of expertise are as follows:
 - :cloud: Interested in cloud computing
 - :bow_and_arrow: Venturing into DevOps tools and practices
 - :writing_hand: Exploring technical content writing
+- :safety_vest: Cybersecurity trainee
 
 
 :mailbox: How to reach me: 
