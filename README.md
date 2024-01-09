@@ -4,7 +4,8 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am an Information Technology: Systems Development in System Integration trainee at WeThinkCode_. A trained backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am an Information Technology: Systems Development in System Integration graduate at WeThinkCode_.
+ <br>A trained software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 My areas of expertise are as follows:
 - :computer: System integration with Java
