@@ -3,16 +3,12 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+#### :woman_technologist: About Me :
 NQF 5 IT: Software development graduate and entry-level software developer.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-My areas of expertise are as follows:
-- :computer: System integration with Java
-- :computer: Web development using Django, Nodejs, MySQL and Mongodb
-- :computer: User Authentication and authorization (Tokens and sessions) Django REST Framework
 
-##### Interest:
+#### Interest:
 - :computer: Web applications
 - :bow_and_arrow: DevOps
 - :cloud: Cloud computing
