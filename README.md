@@ -13,7 +13,7 @@ NQF 5 IT: Software development graduate and entry-level software developer.
 - :bow_and_arrow: DevOps
 - :cloud: Cloud computing
 - :safety_vest: Cybersecurity
-- :writing_hand: Exploring technical content writing
+- :writing_hand: Technical content writing
 
 
 :mailbox: How to reach me: 
