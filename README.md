@@ -20,8 +20,8 @@ Entry-level software developer, passionate about building applications using the
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mokhutso-dev/) <br>
 :monocle_face: Want to know more about me: [Check out my portfolio here](https://mokhutso-dev-portfolio.vercel.app/) 
 
----
-
+<!-- --- -->
+<!--
 ### :hammer_and_wrench::briefcase: Skills (Languages and Tools) :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -35,14 +35,26 @@ Entry-level software developer, passionate about building applications using the
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
 
-<!--
+-->
+
+
 ---
 ### 📌 Pinned repositories
+<a href="https://github.com/mokhutso-dev/Cambiar">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mokhutso-dev&repo=resturant-django-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>  
+<a href="https://github.com/mokhutso-dev/todo-list">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mokhutso-dev&repo=resturant-django-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> 
 <a href="https://github.com/mokhutso-dev/resturant-django-website">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mokhutso-dev&repo=resturant-django-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>  -->
+</a> 
+<a href="https://github.com/mokhutso-dev/containerise-todo">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mokhutso-dev&repo=resturant-django-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> 
 <!--### 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhutso-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhutso-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ -->
 
 ---
 
