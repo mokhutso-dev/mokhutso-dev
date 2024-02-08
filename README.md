@@ -4,7 +4,7 @@
 </h1>
 
 #### :woman_technologist: About Me :
-NQF 5 IT: Software development graduate and entry-level software developer.
+Entry-level software developer, passionate about building applications using the right tech and tools to solve problems.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
