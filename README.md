@@ -5,7 +5,7 @@
 
 #### :woman_technologist: About Me :
 Entry-level software developer, passionate about building applications using the right tech and tools to solve problems.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> More about me 
 
 
 #### Interest:
@@ -18,7 +18,7 @@ Entry-level software developer, passionate about building applications using the
 
 :mailbox: How to reach me: 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mokhutso-dev/) <br>
-:monocle_face: Want to know more about me: [Check out my portfolio here](https://mokhutso-dev-portfolio.vercel.app/) 
+:monocle_face: Want to know more about me: [Check out my portfolio here](https://mokhutso-dev.github.io/profile/) 
 
 <!-- --- -->
 <!--
